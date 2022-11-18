@@ -6,4 +6,5 @@
 <p align="center" width="100%">
     <img height="175px" src="https://lanyard.cnrad.dev/api/442224069899976707?theme=dark&hideDiscrim=true)](https://discord.com/users/442224069899976707" alt="discord-status">
 </p>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/442224069899976707?hideDiscrim=true)](https://discord.com/users/442224069899976707)
