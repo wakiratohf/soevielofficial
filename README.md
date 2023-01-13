@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">My Stats:</h1>
 <p align="center" width="100%">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="github-stats">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="github-stats">
+    <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="github-stats">
+    <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="github-stats">
 </p>
 <h1 align="center">My Status:</h1>
 <p align="center" width="100%">
