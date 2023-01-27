@@ -10,3 +10,4 @@
     <img height="175px" src="https://lanyard.cnrad.dev/api/442224069899976707?theme=dark&amp;hideDiscrim=true" alt="discord-status">
 </p>
 <hr>
+<h6 align="left">wuv u~</h6>
