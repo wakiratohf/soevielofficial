@@ -10,7 +10,7 @@
     <img height="175px" src="https://lanyard.cnrad.dev/api/442224069899976707?theme=dark&amp;hideDiscrim=true" alt="discord-status">
 </p>
 <p align="center" width="100%">
-    <img height="175px" src="<a href="https://ko-fi.com/soevielofficial"><img src="https://i.imgur.com/NK1Brs5.png" alt="kofi"/></a>" alt="kofi">
+    <a target="_blank" href="https://ko-fi.com/soevielofficial"><img src="https://i.imgur.com/NK1Brs5.png" alt="kofi" /></a>
 </p>
 <hr>
 <h6 align="left">wuv u~</h6>
