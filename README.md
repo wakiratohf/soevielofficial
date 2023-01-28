@@ -9,7 +9,7 @@
 <p align="center" width="100%">
     <img height="175px" src="https://lanyard.cnrad.dev/api/442224069899976707?theme=dark&amp;hideDiscrim=true" alt="discord-status">
 </p>
-<p align="center" width="100%">
+<p align="center" width="100%" style=border-radius: 5px>
     <a target="_blank" href="https://ko-fi.com/soevielofficial"><img height="175px" src="https://i.imgur.com/NK1Brs5.png" alt="kofi" /></a>
 </p>
 <hr>
