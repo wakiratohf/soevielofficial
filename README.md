@@ -1,4 +1,3 @@
-<hr>
 <p align="center" width="100%">
     <a target="_blank" href="https://ko-fi.com/soevielofficial"><img height="175px" style="border-radius:5px" src="https://i.imgur.com/NK1Brs5.png" alt="kofi" /></a>
 </p>
