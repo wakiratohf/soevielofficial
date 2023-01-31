@@ -1,6 +1,6 @@
 <hr>
 <p align="center" width="100%">
-    <a target="_blank" href="https://ko-fi.com/soevielofficial"><img height="175px" style="border-radius:50px" src="https://i.imgur.com/NK1Brs5.png" alt="kofi" /></a>
+    <a target="_blank" href="https://ko-fi.com/soevielofficial"><img height="175px" style="border-radius:5px" src="https://i.imgur.com/NK1Brs5.png" alt="kofi" /></a>
 </p>
 <!-- <p align="center" width="100%">
     <img height="175px" src="https://i.imgur.com/W6mUoiN.png" alt="profile">
