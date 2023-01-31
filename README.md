@@ -1,3 +1,4 @@
+<h6 align="left">wuv u~</h6>
 <p align="center" width="100%">
     <a target="_blank" href="https://ko-fi.com/soevielofficial"><img height="175px" style="border-radius:5px" src="https://i.imgur.com/NK1Brs5.png" alt="kofi" /></a>
 </p>
@@ -13,4 +14,3 @@
     <img height="175px" src="https://lanyard.cnrad.dev/api/442224069899976707?theme=dark&amp;hideDiscrim=true" alt="discord-status">
 </p>
 <hr>
-<h6 align="left">wuv u~</h6>
